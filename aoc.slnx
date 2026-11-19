@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/csharp/">
+    <Project Path="csharp/Aoc.CSharp.Tests/Aoc.CSharp.Tests.csproj" />
+    <Project Path="csharp/Aoc.CSharp/Aoc.CSharp.csproj" />
+    <Project Path="csharp/Aoc.Generators/Aoc.Generators.csproj" />
+  </Folder>
+  <Folder Name="/fsharp/">
+    <Project Path="fsharp/Aoc.FSharp/Aoc.FSharp.fsproj" />
+  </Folder>
+</Solution>

@@ -1,3 +1,17 @@
+# Puzzle data
 inputs/
+samples/
 replays/
-*/bin/
+notes/
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Rust
+target/
+
+# Racket
+compiled/
